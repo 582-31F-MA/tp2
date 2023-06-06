@@ -1,19 +1,18 @@
 |-- src
-|	|-- components
-|	|	|-- MovieCard.js
-|	|	|-- SearchForm.js
-|	|	|-- CommentSelect.js
-|	|	|-- ...
 |	|-- css
 |	|	|-- style.css
 |	|	|-- reset.css
 |	|	|-- ...
 |	|-- lib
 |	|	|-- Router.js
-|	|	|-- Component.js
+|	|	|-- Catalogue.js
 |	|	|-- ...
 |	|-- routes
-|	|	|-- Home.js
-|	|	|-- Details.js
+|	|	|-- home
+|	|	|	|-- index.html
+|	|	|	|-- index.js
+|	|	|-- details
+|	|	|	|-- index.html
+|	|	|	|-- index.js
 |	|-- index.html
 |	|-- main.js
